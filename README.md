@@ -21,4 +21,4 @@ https://ajaybodkhe25.github.io/Amazon-Clone/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Ninja-Vikash/myamazon.git
+https://github.com/ajaybodkhe25/Amazon-Clone.git
